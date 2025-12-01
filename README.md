@@ -56,7 +56,7 @@ Here's the breakdown of top-paying data engineering jobs in 2023:
 - Remote and full-time positions dominate, showing that flexibility and stability are key features of top-paying roles.
 
 ![Top Paying Roles](https://github.com/fasaint/DataEngineer_Salary_Skills_Analysis/blob/main/assets/1_top_paying_jobs.png)
-*Bar graph visualizing the skills for the top 10 salaries for data engineers*
+*Bar graph visualizing the salaries for the top 10 skills for data engineers*
 
 ### 2. Skills required for top-paying Data Engineering roles
 
@@ -105,7 +105,7 @@ Here's the breakdown of skills required for top-paying data engineering jobs:
 - **Key takeaway:** To target high-paying data engineering positions, candidates should focus on Python, Spark, SQL, and cloud experience. Advanced ML tools and big data frameworks are essential for leadership or highly specialized roles
 
 ![Top Paying Roles](https://github.com/fasaint/DataEngineer_Salary_Skills_Analysis/blob/main/assets/2_top_skills.png)
-*Bar graph visualizing the salary for the top 10 salaries for data engineers*
+*Bar graph visualizing the top skills for data engineers*
 
 #  What i learned
 Throughout this adventure, I dived deep into working with data, exploring its patterns and stories. I strengthened my SQL querying skills, learned how to aggregate and summarize large datasets effectively, and developed a sharper analytical mindset. Each challenge pushed me to think critically, uncover insights, and approach problems more strategically, making me more confident in turning raw data into meaningful conclusions.
